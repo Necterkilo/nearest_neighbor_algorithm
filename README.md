@@ -10,4 +10,4 @@ Input the graph from left to right, hitting [ENTER] after each digit, and ***rep
 
 Designate the starting vertex as a character (case insensitive).
 
-The alorithm computes the total cost of the trip and the vertices traversed with the inputted information, then closes.
+The alorithm computes the total cost of the trip and the vertices traversed with the inputted graph, then closes.
